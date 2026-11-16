@@ -22,7 +22,7 @@ No trabalho, também uso IA em automações de processos, com backup, auditoria 
 
 ## Ferramentas
 
-`Next.js` `Supabase` `Python` `SQL` `PostgreSQL` `Oracle` `Java` `Streamlit` `SQLAlchemy` `Git` `Docker` `Claude Code`
+`Next.js` `Supabase` `Python` `SQL` `PostgreSQL` `Oracle` `Java` `Streamlit` `SQLAlchemy` `Git` `Docker` `Shell Script` `Bash` `awk` `Linux` `Mermaid` `Claude Code` `Codex`
 
 ## Contato
 
