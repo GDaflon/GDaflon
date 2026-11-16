@@ -13,7 +13,7 @@ Gosto de entender o problema antes de pensar na solução. Uso IA no dia a dia p
 | [**Agenda Pilates**](https://github.com/GDaflon/agenda-pilates) | Agenda digital com assistente de IA para um estúdio de pilates, em produção e usada todos os dias pela equipe | Next.js · Supabase · Claude API |
 | [**Cargas de CEP automatizadas**](https://github.com/GDaflon/estudo-de-caso-cargas-cep) | Estudo de caso: rotina que aplica, audita contra a fonte, exporta e publica a base de CEPs sozinha, e para quando algo não fecha | Shell · Git · IA (Claude e Codex) |
 | [**Lost in the Waves**](https://github.com/GDaflon/TRABALHO-G2-DE-PROGRAMACAO-ORIENTADA-A-OBJETOS) | Jogo retrô de surfe, trabalho de Programação Orientada a Objetos | Java Swing · MVC |
-| [**Saneamento no Brasil**](https://github.com/GDaflon/lasalle/tree/main/linguagens-de-programacao/projeto-saneamento-sinisa) | Atendimento por redes de água e esgoto em 2024, com dados do SINISA · [artigo](https://gdaflon.github.io/lasalle/projeto-saneamento-sinisa/) | Python · Pandas |
+| [**Saneamento no Brasil**](https://github.com/GDaflon/lasalle/tree/main/linguagens-de-programacao/projeto-saneamento-sinisa) | Artigo com pipeline reproduzível sobre redes de água e esgoto em 2024: 5.149 municípios do SINISA, 27 UFs e as metas de 2033 · [artigo interativo](https://gdaflon.github.io/lasalle/projeto-saneamento-sinisa/) | Python · Pandas · Plotly · Parquet |
 | [**Combustíveis no Brasil**](https://github.com/GDaflon/lasalle/tree/main/linguagens-de-programacao/projeto-precos-combustiveis) | Preços e diferenças entre UFs de 2015 a 2024 · [dashboard](https://lasalle-combustiveis-g1.streamlit.app/) | Python · SQLite · Streamlit |
 
 Os trabalhos da faculdade estão organizados por disciplina em [**lasalle**](https://github.com/GDaflon/lasalle).
@@ -22,7 +22,7 @@ No trabalho, também uso IA em automações de processos, com backup, auditoria 
 
 ## Ferramentas
 
-`Next.js` `Supabase` `Python` `SQL` `PostgreSQL` `Oracle` `Java` `Streamlit` `SQLAlchemy` `Git` `Docker` `Shell Script` `Bash` `awk` `Linux` `Mermaid` `Claude Code` `Codex`
+`Next.js` `Supabase` `Python` `SQL` `PostgreSQL` `Oracle` `Java` `Pandas` `Plotly` `Streamlit` `SQLAlchemy` `Git` `Docker` `Shell Script` `Bash` `awk` `Linux` `Mermaid` `Claude Code` `Codex`
 
 ## Contato
 
