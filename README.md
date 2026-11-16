@@ -8,10 +8,16 @@ Gosto de entender o problema antes de pensar na solução. Uso IA no dia a dia p
 
 ## Projetos
 
-- **Agenda com IA para estúdio de pilates.** PWA em Next.js + Supabase, em produção, com um agente que marca aulas a partir de mensagens em linguagem natural.
-- **Automação de processos com IA.** Rotinas com backup, auditoria contra a fonte oficial e bloqueio automático quando algo dá errado.
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [**Agenda Pilates**](https://github.com/GDaflon/agenda-pilates) | Agenda digital com assistente de IA para um estúdio de pilates, em produção e usada todos os dias pela equipe | Next.js · Supabase · Claude API |
+| [**Lost in the Waves**](https://github.com/GDaflon/lasalle/tree/main/programacao-orientada-a-objetos/lost-in-the-waves) | Jogo retrô de surfe, trabalho de Programação Orientada a Objetos | Java Swing · MVC |
+| [**Saneamento no Brasil**](https://github.com/GDaflon/lasalle/tree/main/linguagens-de-programacao/projeto-saneamento-sinisa) | Atendimento por redes de água e esgoto em 2024, com dados do SINISA · [artigo](https://gdaflon.github.io/lasalle/projeto-saneamento-sinisa/) | Python · Pandas |
+| [**Combustíveis no Brasil**](https://github.com/GDaflon/lasalle/tree/main/linguagens-de-programacao/projeto-precos-combustiveis) | Preços e diferenças entre UFs de 2015 a 2024 · [dashboard](https://lasalle-combustiveis-g1.streamlit.app/) | Python · SQLite · Streamlit |
 
-Os projetos vão chegando aqui, um de cada vez.
+Os trabalhos da faculdade estão organizados por disciplina em [**lasalle**](https://github.com/GDaflon/lasalle).
+
+No trabalho, também uso IA em automações de processos, com backup, auditoria contra a fonte oficial e bloqueio automático quando algo dá errado. Esse código não é público.
 
 ## Ferramentas
 
